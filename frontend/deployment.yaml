@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: omarkamals/frontend
+        image: serag0/frontend
         imagePullPolicy: Always
         ports:
         - containerPort: 80
